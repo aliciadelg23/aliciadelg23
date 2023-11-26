@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou a Alicia Delgado 🖐🏻👩🏻‍💻</h1>
+
 <div align="center">
  <h1 align="center"> Overview </h1>
 
@@ -11,7 +11,7 @@
  <div/>
 
 <div align="center" style="display: inline_block"><br/>
-
+<h1 align="center"> Olá! Eu sou a Alicia Delgado 🖐🏻👩🏻‍💻</h1>
 
 ![Alicia GitHub stats](https://github-readme-stats.vercel.app/api?username=aliciadelg23&show_icons=true&theme=synthwave)
 </div> <br/> <br>
