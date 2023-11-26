@@ -50,7 +50,7 @@
 
  <h1 align="center">  </h1>
 <div >
-Quando não estou programando, tenho os hobbies de jogar video game, fazer esportes, viajar e ouvir musica. 🍻🍔🌊 <br>
+Quando não estou programando, tenho os hobbies de jogar video game, praticar esportes, viajar e ouvir musica. 🍻🍔🌊 <br>
 
 
 <br/>
