@@ -26,7 +26,6 @@
 <img alt="html5"src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="html5"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img alt="html5" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"
 <br>  
 <br>  
 <br>  
@@ -55,5 +54,5 @@ Quando não estou programando, tenho os hobbies de jogar video game, praticar es
 
 
 <br/>
-<img align="center" width="300" alt="html5"src="https://cdn.discordapp.com/attachments/1084655721053962240/1178154167047557151/41965b32-9fdf-4d04-9a77-5f97ae88c0ce.jpeg?ex=65751c92&is=6562a792&hm=8bc58bb2fe1e7935d034d77cf146a4a25158d038fd490967fccd59cb84781b37&)">
+<img align="center" width="300" alt="html5"src="https://cdn.discordapp.com/attachments/1084655721053962240/1178522559084494948/4262ddea-5f18-44b6-a261-7da292b6ce90.jpeg?ex=657673a9&is=6563fea9&hm=c6e2bc75a5d39077468514d87dd18c01b775e411637b0518b4f992b1c562f45b&">
 </div> <br/>
