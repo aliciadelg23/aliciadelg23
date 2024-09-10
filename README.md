@@ -2,7 +2,7 @@
 <div align="center">
  <h1 align="center"> Overview </h1>
 
-<p>❣️Estou cursando Sistemas de Informação na UFJF e sou apaixonada por tecnologia! Acredito que a programação é aliada ao marketing e ao design, e por isso, sempre estou adquirindo conhecimentos nessas áreas também.</p>
+<p>❣️Estou cursando Sistemas de Informação na UFMS e sou apaixonada por tecnologia! </p>
 
 
 <img align="center" src="https://media4.giphy.com/media/t4cCKrEkociVYDJrrr/giphy.gif?cid=ecf05e47atfpg3hv5oml0sya59azrepjprxuuw7pe936uecw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"> 
